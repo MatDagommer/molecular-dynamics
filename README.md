@@ -34,5 +34,5 @@ Run with: ``` $ ./start ```
 
 ## Output
 
-![alt text](img/regions.jpg)
+![alt text](img/regions.JPG)
 

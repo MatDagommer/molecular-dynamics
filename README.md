@@ -1,7 +1,8 @@
 # molecular-dynamics
 
 Welcome to my molecular dynamics computer project !
-It was realized at ESPCI Paris under the supervision of Prof. Didier Cassereau.
+
+The project was realized at ESPCI Paris under the supervision of Prof. Didier Cassereau.
 
 The objective was to simulate moving molecules in a 2D plane using mechanics and conservation of momentum.
 

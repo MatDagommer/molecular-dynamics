@@ -65,7 +65,7 @@ class Graphics{
 
 
 
-  void draw(Particle*, double,int, int, double **);//draw the particles
+  void draw(Particle*, double, int, double **, int**, double**, int**, double *);//draw the particles
   void frame(double , double , double , double );//draw a square
   ~Graphics(){cairo_destroy (cr);cairo_surface_destroy (sfc); } //clean up function
 };

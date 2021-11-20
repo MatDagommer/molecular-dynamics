@@ -19,7 +19,7 @@ Download Xming X Server:
         
 ## Run (Linux/Ubuntu)
 
-Download this repo: git clone _
+Download this repo: git clone https://github.com/MatDagommer/molecular-dynamics.git
 
 (Windows Users)
 Open Xming X Server (X Launch). Select "Multiple Windows", "Start no client". 

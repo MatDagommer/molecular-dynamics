@@ -25,7 +25,7 @@ Download Xming X Server:
         
 ## Run (Linux/Ubuntu)
 
-Download this repo: git clone https://github.com/MatDagommer/molecular-dynamics.git
+Download this repo: ``` git clone https://github.com/MatDagommer/molecular-dynamics.git ```
 
 #### For Windows Users
 

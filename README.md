@@ -40,5 +40,5 @@ Run with: ``` $ ./start ```
 
 ## Output
 
-![alt text](img/mol_dyn.png)
+![alt text](img/mol_dyn.PNG)
 
